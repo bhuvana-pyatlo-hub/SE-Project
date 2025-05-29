@@ -74,11 +74,11 @@ cd ai-test-automation
 
   1.Single-LLM Test Generation
   
-    Run the SingleLLM.py script to generate test cases using Gemini
+   Run the SingleLLM.py script to generate test cases using Gemini
   
   2.Multi-LLM Test Generation and Refinement
     
-    Run the MultipleLLM.py script to generate and refine test cases using Gemini and GPT-4o
+  Run the MultipleLLM.py script to generate and refine test cases using Gemini and GPT-4o
 
   **Output**
   
